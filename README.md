@@ -2,28 +2,29 @@
 
 You can use this website to check and track all of my present and future projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### List of Projects
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Covid App
 
-- Bulleted
-- List
+## Spec
+- Minimum SDK 21
+- 100% Kotlin based
+- MVVM Architecture
+- Architecture Components (Lifecycle, LiveData, ViewModel, Room Persistence)
+- DataBinding
+- [Dagger2](https://github.com/google/dagger) for dependency injection
+- [Retrofit2 & Gson](https://github.com/square/retrofit) for constructing the REST API
+- [OkHttp3](https://github.com/square/okhttp) for implementing interceptor
+- [Stetho](https://github.com/facebook/stetho) for debugging persistence data & network packets
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Screenshots
+<p align="center">
+  <img src="https://github.com/shaikh7862/covid-app/blob/master/Image1.jpeg" width="300">
+  <img src="https://github.com/shaikh7862/covid-app/blob/master/Image2.jpeg" width="300">
+  <img src="https://github.com/shaikh7862/covid-app/blob/master/Image3.jpeg" width="300">
+</p>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
