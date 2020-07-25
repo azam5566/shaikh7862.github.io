@@ -18,12 +18,10 @@ You can use this website to check and track all of my present and future project
 - [Stetho](https://github.com/facebook/stetho) for debugging persistence data & network packets
 
 ## Screenshots
-![Image1](/Images/CovidApp/Image1.jpeg)
-
 <p align="center">
-  <img src="https://github.com/shaikh7862/covid-app/blob/master/Image1.jpeg" width="300">
-  <img src="https://github.com/shaikh7862/covid-app/blob/master/Image2.jpeg" width="300">
-  <img src="https://github.com/shaikh7862/covid-app/blob/master/Image3.jpeg" width="300">
+  <img src="/Images/CovidApp/Image1.jpeg" width="300">
+  <img src="/Images/CovidApp/Image2.jpeg" width="300">
+  <img src="/Images/CovidApp/Image3.jpeg" width="300">
 </p>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
