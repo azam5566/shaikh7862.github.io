@@ -18,7 +18,7 @@ You can use this website to check and track all of my present and future project
 - [Stetho](https://github.com/facebook/stetho) for debugging persistence data & network packets
 
 ## Screenshots
-![Image1](https://github.com/shaikh7862/covid-app/blob/master/Image1.jpeg)
+![Image1](/Images/CovidApp/Image1.jpeg)
 
 <p align="center">
   <img src="https://github.com/shaikh7862/covid-app/blob/master/Image1.jpeg" width="300">
