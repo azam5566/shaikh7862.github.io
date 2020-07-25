@@ -1,7 +1,3 @@
-## Welcome to my portfolio
-
-You can use this website to check and track all of my present and future projects
-
 ### List of Projects
 
 # 1) Covid App
