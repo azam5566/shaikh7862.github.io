@@ -4,8 +4,6 @@ You can use this website to check and track all of my present and future project
 
 ### List of Projects
 
-```markdown
-
 # Covid App
 
 ## Spec
@@ -27,7 +25,6 @@ You can use this website to check and track all of my present and future project
   <img src="https://github.com/shaikh7862/covid-app/blob/master/Image2.jpeg" width="300">
   <img src="https://github.com/shaikh7862/covid-app/blob/master/Image3.jpeg" width="300">
 </p>
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
