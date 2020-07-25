@@ -4,7 +4,7 @@ You can use this website to check and track all of my present and future project
 
 ### List of Projects
 
-# Covid App
+# 1) Covid App
 
 ## Spec
 - Minimum SDK 21
