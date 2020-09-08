@@ -1,6 +1,6 @@
 ### List of Projects
 
-# 1) Covid App
+# 1) Covid App (Android Native/Kotlin)
 
 ## Spec
 - Minimum SDK 21
@@ -19,3 +19,15 @@
   <img src="/Images/CovidApp/Image2.jpeg" width="300">
   <img src="/Images/CovidApp/Image3.jpeg" width="300">
 </p>
+
+# 1) Meals App (React Native/JavaScript)
+- Redux
+- FireBase
+- Funtional Components
+- Lottie Animation
+
+##ScreenShots
+<p align="center">
+  
+</p>
+
